@@ -1,27 +1,27 @@
-<div class="center">
+<div class="owo">
 	<h1>Michiru so coooooooool</h1>
 	<h1 class="uwu">:3</h1>
 </div>
 <div class="furryfeet">
 	<!-- svelte-ignore a11y-img-redundant-alt -->
-	<img src="/1.png" alt="Michiru image" />
+	<img src="/1.png" alt="MICHIIIIIII >w<" />
 	<!-- svelte-ignore a11y-img-redundant-alt -->
-	<img src="/2.png" alt="Michiru image" />
+	<img src="/2.png" alt="MICHIIIIIII >w<" />
 	<!-- svelte-ignore a11y-img-redundant-alt -->
-	<img src="/3.png" alt="Michiru image" />
+	<img src="/3.png" alt="MICHIIIIIII >w<" />
 	<!-- svelte-ignore a11y-img-redundant-alt -->
-	<img src="/4.png" alt="Michiru image" />
+	<img src="/4.png" alt="MICHIIIIIII >w<" />
 	<!-- svelte-ignore a11y-img-redundant-alt -->
-	<img src="/5.png" alt="Michiru image" />
+	<img src="/5.png" alt="MICHIIIIIII >w<" />
 	<!-- svelte-ignore a11y-img-redundant-alt -->
-	<img src="/6.png" alt="Michiru image" />
+	<img src="/6.png" alt="MICHIIIIIII >w<" />
 	<!-- svelte-ignore a11y-img-redundant-alt -->
-	<img src="/7.png" alt="Michiru image" />
+	<img src="/7.png" alt="MICHIIIIIII >w<" />
 </div>
-<div class="backgwound" />
+<div class="tanuki_pussy_owo_snifffffffff" />
 
 <style>
-	.backgwound {
+	.tanuki_pussy_owo_snifffffffff {
 		background-color: #000000;
 		position: absolute;
 		top: 0;
@@ -53,7 +53,7 @@
 		z-index: 1;
 	}
 
-	.center {
+	.owo {
 		display: flex;
 		justify-content: center;
 		align-items: center;
